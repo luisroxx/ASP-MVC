@@ -1,0 +1,5 @@
+Projeto desenvolvido em ASP MVC
+
+Não esqueça de alterar a connection string
+
+Desenvolvido por Luis Guilherme da Costa Martins

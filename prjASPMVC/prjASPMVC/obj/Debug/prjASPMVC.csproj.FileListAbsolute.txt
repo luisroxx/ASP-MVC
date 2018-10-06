@@ -1,0 +1,316 @@
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\ApplicationInsights.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\csi.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Console.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\vbc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.Helpers.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.Mvc.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.Optimization.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csprojAssemblyReference.cache
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CopyComplete
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\obj\Debug\prjASPMVC.csprojAssemblyReference.cache
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\obj\Debug\prjASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\obj\Debug\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\obj\Debug\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\ApplicationInsights.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\prjASPMVC.dll.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csc.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csi.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csi.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\csi.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Console.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\vbc.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\vbc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\vbc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.Helpers.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.Mvc.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.Optimization.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.WebPages.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\prjASPMVC - Cópia\prjASPMVC\obj\Debug\prjASPMVC.csproj.CopyComplete
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\ApplicationInsights.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\csi.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Console.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\vbc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.Helpers.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.Mvc.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.Optimization.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csprojAssemblyReference.cache
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CopyComplete
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\ApplicationInsights.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\prjASPMVC.pdb
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csi.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\csi.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Console.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\vbc.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\vbc.rsp
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.Helpers.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.Mvc.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.Optimization.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csprojAssemblyReference.cache
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.csproj.CopyComplete
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.dll
+C:\Users\Zerato\Desktop\ASP MVC\Luis Guilherme da Costa Martins - Cópia\prjASPMVC\prjASPMVC\obj\Debug\prjASPMVC.pdb

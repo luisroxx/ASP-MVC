@@ -1,0 +1,38 @@
+﻿@model IEnumerable<prjEscola.Models.Aula>
+
+@{
+    ViewBag.Title = "ListarAulas";
+}
+
+<h2>Listar Aulas</h2>
+
+    @foreach (var item in Model)
+    {
+        var DiaSemana = @Html.DisplayFor(modelItem => item.nmDiaSemana);
+        var HoraInicial = @Html.DisplayFor(modelItem => item.HoraAulaInicio);
+        var HoraFinal = @Html.DisplayFor(modelItem => item.HoraAulaFim);
+
+        var DiaSemana2 = @Html.DisplayFor(modelItem => item.nmDiaSemana2);
+        var HoraInicial2 = @Html.DisplayFor(modelItem => item.HoraAulaInicio2);
+        var HoraFinal2 = @Html.DisplayFor(modelItem => item.HoraAulaFim2);
+
+        var DiaSemanaAtendimento = @Html.DisplayFor(modelItem => item.nmDiaSemanaAtendimento);
+        var HoraInicialAtendimento = @Html.DisplayFor(modelItem => item.HoraAtendimentoInicio);
+        var HoraFinalAtendimento = @Html.DisplayFor(modelItem => item.HoraAtendimentoFim);
+
+        var DiaSemanaAtendimento2 = @Html.DisplayFor(modelItem => item.nmDiaSemanaAtendimento2);
+        var HoraInicialAtendimento2 = @Html.DisplayFor(modelItem => item.HoraAtendimentoInicio2);
+        var HoraFinalAtendimento2 = @Html.DisplayFor(modelItem => item.HoraAtendimentoFim2);
+
+    <p>
+        <b>
+            @Html.DisplayFor(modelItem => item.nmCurso) -  @Html.DisplayFor(modelItem => item.nomeTurma)
+            @DiaSemana @HoraInicial às @HoraFinal e @DiaSemana2 @HoraInicial2 às @HoraFinal2
+        </b>
+        <br />
+        <b>Atendimento:</b> @DiaSemanaAtendimento @HoraInicialAtendimento às @HoraFinalAtendimento e @DiaSemanaAtendimento2  @HoraInicialAtendimento2 às @HoraFinalAtendimento2
+    </p>
+
+    <br />
+
+}

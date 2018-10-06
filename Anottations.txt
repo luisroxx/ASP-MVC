@@ -1,0 +1,35 @@
+ViewBag.Teste = "Eduardo";
+
+Viewe
+
+
+
+
+
+
+
+
+
+
+----------
+
+
+[Required(ErrorMessage = "Nome deve ser preenchido")]
+[StringLength(50,MinimunLength = 5,ErrorMessage = "Deve conter entre 5 e 50 letras")]
+[Range(10,50,ErrorMessage = "Deve ser entre 18 e 50)]
+[RegularExpression(\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*", ErrorMessage = "Email Inválido")]
+[Compare("Senha",ErrorMessage = "")]
+[Remote("Ação","Controle",ErrorMessage = "Erro")]
+
+
+
+
+
+
+@section Scripts{
+	@Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+
